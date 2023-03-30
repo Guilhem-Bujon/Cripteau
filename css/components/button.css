@@ -1,0 +1,13 @@
+
+.btn-yellow {
+	position: absolute;
+    bottom: -27px;
+    left:160px;
+	margin-bottom: 0px;
+	background-color: #FEB406;
+	padding:10px 30px;
+	border-radius: 6px;
+	color: Black;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+}

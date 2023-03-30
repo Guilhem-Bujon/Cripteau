@@ -1,0 +1,25 @@
+
+.cards {
+	display:flex;
+	flex-wrap: wrap;
+}
+
+
+.card {
+	position: relative;
+	padding:0px 29px;
+	margin:14px;
+	margin-bottom: 27px;
+	width:350px ;
+	text-align: center;
+	border-color: #404040;
+	border-style: solid;
+	border-width: 2px;
+}
+
+
+.card:hover {
+	border-width: 3px;
+	border-color: white;
+}
+
